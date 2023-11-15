@@ -1,4 +1,4 @@
-# 5 Mini AWS Cloud Project Ideas ☁️
+# 6 Mini AWS Cloud Project Ideas ☁️
 
 Beginner to Advanced Cloud Projects to help you build hands-on skills in AWS.
 
@@ -157,3 +157,6 @@ Refer to [General Immersion Day Guide](https://catalog.workshops.aws/general-imm
 
 ### Project Completion Time
 - Approximately 4-6 hours, depending on your familiarity with AWS services.
+
+## Project #6: Private Assitant 
+https://github.com/elizabethfuentes12/aws-private-assistant
